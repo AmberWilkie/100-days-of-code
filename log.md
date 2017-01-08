@@ -23,6 +23,19 @@
 - There's so much shit I don't know about CSS.
 
 **Fuck-ups:**
+- No need to work out AM/PM on the clock. 361 degrees == 1 degrees. Dur.
 
 **Link to work:** [CSS Clock](https://github.com/AmberWilkie/JavaScript30/tree/master/02%20-%20JS%20%2B%20CSS%20Clock)
+
+## Day -1: Sunday, January 8, 2017
+#### Our very first real "coffee date".
+
+**Today's Progress**: More or less figured out Javascript Day 2 on my own, once I got the correct function calls and CSS properties from the dude. It was a pretty simple one, really.
+
+**Thoughts:**
+- Holy crap, CSS variables are awesome.
+
+**Fuck-ups:**
+
+**Link to work:** [CSS Variables](https://github.com/AmberWilkie/JavaScript30/tree/master/03%20-%20CSS%20Variables)
 
