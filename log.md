@@ -39,3 +39,17 @@
 
 **Link to work:** [CSS Variables](https://github.com/AmberWilkie/JavaScript30/tree/master/03%20-%20CSS%20Variables)
 
+## Day 1: Monday, January 9, 2017
+#### The official first day of #100DaysOfCode for #CodeNewbies
+
+**Today's Progress**: Day 4 of #Javascript30 - all about arrays and array functions.
+
+**Thoughts:**
+- Tough stuff! Lots of technical talk and wrapping your head around iterations and such. I'm demonstrably better at Javascript already.
+- I need to spend more time understanding `.reduce()`
+
+**Fuck-ups:**
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201
+
