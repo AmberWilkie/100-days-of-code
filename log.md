@@ -53,3 +53,17 @@
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201
 
+## Day 2: Tuesday, January 10, 2017
+#### Mega CSS day: Flexbox
+
+**Today's Progress**: Day 5 of #Javascript30 - the CSS Flexbox (cool stuff)
+
+**Thoughts:**
+- Tons of things I don't know about CSS. Should bone up on that a bit so I can make things pretty.
+- Flexbox is cool.
+
+**Fuck-ups:**
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery
+
