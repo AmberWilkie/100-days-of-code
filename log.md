@@ -67,3 +67,17 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/04%20-%20Array%20Cardio%
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery
 
+## Day 3: Wednesday, January 11, 2017
+#### Working more with `.filter()` and Regex
+
+**Today's Progress**: Day 6 of #Javascript30 - more basic stuff and also easy callbacks!
+
+**Thoughts:**
+- Need to find a time when I can do some more digging into these concepts I am just marking to figure out later.
+
+**Fuck-ups:**
+- You can't fuck up that much on tutorials, really.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/06%20-%20Type%20Ahead
+
