@@ -81,3 +81,17 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/05%20-%20Flex%20Panel%20
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/06%20-%20Type%20Ahead
 
+## Day 4: Friday, January 13, 2017
+#### The easiest #Javascript30 video yet.
+
+**Today's Progress**: Day 7 of #Javascript30 - some more array methods.
+
+**Thoughts:**
+- This video was pretty easy, partially because I am starting to get more familiar with the JS syntax itself.
+- I had to miss a day yesterday because we had company for dinner.
+
+**Fuck-ups:**
+- I really could have pushed and worked last night, but then I'd have had zero relaxation time and one needs relaxation time.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202
