@@ -110,3 +110,14 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/07%20-%20Array%20Cardio%
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas
+
+## Day 6: Sunday, January 15, 2017
+#### I'm going to count two days today.
+
+**Today's Progress**: Day 9 of #Javascript30 - fun stuff with canvas and drawing.
+
+**Thoughts:**
+- Today's video was just a bunch of `console.log` options. It works out ok because the canvas thing was colorful and fun.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination
