@@ -95,3 +95,18 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/06%20-%20Type%20Ahead
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202
+
+## Day 5: Sunday, January 15, 2017
+#### I'm going to count two days today. Yesterday was ...yes.
+
+**Today's Progress**: Day 8 of #Javascript30 - fun stuff with canvas and drawing.
+
+**Thoughts:**
+- HSL color picker is a handy guy that is more logical than hex codes.
+- Need to keep `if(!var) return;` in mind for shutting down functions in the middle.
+
+**Fuck-ups:**
+- Yesterday was just fun, but I could have squeezed in work time in the morning. Thankfully I intend to make up for it today.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas
