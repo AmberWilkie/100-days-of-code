@@ -121,3 +121,16 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/08%20-%20Fun%20with%20HT
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination
+
+## Day 7: Monday, January 16, 2017
+#### I'm going to count two days today.
+
+**Today's Progress**: Day 10 of #Javascript30 - shift and checkboxes.
+
+**Thoughts:**
+- I did it! I used a bunch of `if` statements and `while` loops and far too many `eventListener`s but no worries, it's done.
+- Feels good to get a thing right, even if it needs significant refactoring.
+- `e` has `.shiftKey` available. Probably all kinds of useful other stuff, too.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes
