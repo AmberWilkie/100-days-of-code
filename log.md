@@ -134,3 +134,16 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/09%20-%20Dev%20Tools%20D
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes
+
+## Day 8: Tuesday, January 17, 2017
+#### All about videos on #Javascript30
+
+**Today's Progress**: Day 11 of #Javascript30 - styling the video player.
+
+**Thoughts:**
+- Did it again, mostly.
+- `if` statements are way out of style.
+- Need to remember `offsetWidth` for finding the width of elements, as they are (not as set in CSS).
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player
