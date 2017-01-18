@@ -147,3 +147,15 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/10%20-%20Hold%20Shift%20
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player
+
+## Day 9: Wednesday, January 18, 2017
+#### Silly key sequence detection
+
+**Today's Progress**: Day 12 of #Javascript30 - key seq detection.
+
+**Thoughts:**
+- I didn't expect to have time today, so that's a win.
+- `.splice()` is a helpful little method
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection
