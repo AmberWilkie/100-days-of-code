@@ -159,3 +159,15 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/11%20-%20Custom%20Video%
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection
+
+## Day 10: Thursday, January 19, 2017
+#### Animating images in on scroll
+
+**Today's Progress**: Day 13 of #Javascript30.
+
+**Thoughts:**
+- There are *so many* window events.
+- I can't imagine ever using this particular animation, but knowing about `scroll` properties and other window events is really great.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll
