@@ -171,3 +171,15 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/12%20-%20Key%20Sequence%
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll
+
+## Day 11: Friday, January 20, 2017
+#### Copy vs. Reference
+
+**Today's Progress**: Day 14 of #Javascript30.
+
+**Thoughts:**
+- This lesson was really boring but ok, probably important.
+- Who knew you couldn't just copy arrays and expect them to carry on as though they were completely new objects!
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/14%20-%20JavaScript%20References%20VS%20Copying
