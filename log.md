@@ -183,3 +183,16 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/13%20-%20Slide%20in%20on
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/14%20-%20JavaScript%20References%20VS%20Copying
+
+## Day 12: Saturday, January 21, 2017
+#### localStorage & event delegation
+
+**Today's Progress**: Day 15 of #Javascript30.
+
+**Thoughts:**
+- Lots of good stuff today - good learning going on.
+- Halfway through the Javascript30 challenge!
+- Really happy about all the protesting today around the world. If only it can be momentum that *builds* and we can fight authoritarianism and hatred in all forms.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/15%20-%20LocalStorage
