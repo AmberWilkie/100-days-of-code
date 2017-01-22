@@ -196,3 +196,19 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/14%20-%20JavaScript%20Re
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/15%20-%20LocalStorage
+
+## Day 13: Sunday, January 22, 2017
+#### Working on a personal project: "Gö-vents" (until I can think of a better name)
+
+**Today's Progress**:
+- Added a "today" button to search for things happening today.
+- Removed the crazy-confusing web-scraping we put together during a hack-a-thon and used the API Gothenburg produces (whoops on not finding that before).
+
+**Thoughts:**
+- I thought I might get this guy in a position to put in my portfolio today but no such luck.
+- I need to add a lot more styling to this guy - hopefully some cards for each event.
+- I'd also like to pull in more places to search - things like the library, perhaps, which I think are actually not being added here, but also music venues, Chalmers, etc.
+- I hate "Gö-vents" (the name) so much I might die.
+
+**Link to work:**
+https://github.com/AmberWilkie/govents
