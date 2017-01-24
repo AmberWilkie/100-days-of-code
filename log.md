@@ -212,3 +212,17 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/15%20-%20LocalStorage
 
 **Link to work:**
 https://github.com/AmberWilkie/govents
+
+## Day 14: Monday, January 24, 2017
+#### Drop-shadow animation with Javascript
+
+**Today's Progress**:
+- #Javascript30 Day 16
+- Liked it so much I threw the code into my portfolio. Made it subtle enough so folks who hate it can safely ignore it.
+
+**Thoughts:**
+- My portfolio is so childish... I need to figure out a nicer presentation.
+- On the other hand, I need to build some stuff that didn't come directly from the camp.
+
+**Link to work:**
+http://portfolio.amberwilkie.com
