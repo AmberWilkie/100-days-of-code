@@ -226,3 +226,19 @@ https://github.com/AmberWilkie/govents
 
 **Link to work:**
 http://portfolio.amberwilkie.com
+
+## Day 15: Thurdsay, January 25, 2017
+#### Fighting with APIs
+
+**Today's Progress**:
+- Added Facebook events to event aggregator. I have three APIs working on the damn app now.
+
+**Thoughts:**
+- Facebook API is really not documented as well as one might think.
+
+**To do:**
+- Prettify the damn thing up. I want to get cards working from foundation so this thing actually looks nice and I can add it to the portfolio.
+
+**Link to work:**
+http://apimachine.herokuapp.com
+https://github.com/amberwilkie/govents
