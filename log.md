@@ -242,3 +242,21 @@ http://portfolio.amberwilkie.com
 **Link to work:**
 http://apimachine.herokuapp.com
 https://github.com/amberwilkie/govents
+
+## Day 16: Friday, January 26, 2017
+#### Fighting with Foundation and Alignment
+
+**Today's Progress**:
+- Installed Foundation to "Gö-vents" (Jesus, that needs a new name)
+- Wrapped responses in Foundation's accordion, and those in the grid.
+
+
+**Thoughts:**
+- Why is it always so damn hard to get things aligned?
+
+**To do:**
+- Work out some system to expand across the entire screen if the other guys aren't going to be around (of the three data types).
+
+**Link to work:**
+http://apimachine.herokuapp.com
+https://github.com/amberwilkie/govents
