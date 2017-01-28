@@ -260,3 +260,18 @@ https://github.com/amberwilkie/govents
 **Link to work:**
 http://apimachine.herokuapp.com
 https://github.com/amberwilkie/govents
+
+## Day 17: Saturday, January 27, 2017
+#### Bubble Sort, Intro to Algorithms
+
+**Today's Progress**:
+- Day 17 (they finally sink up!) of #Javascript30 - bubble sort (again). I think I get it much better this time around.
+- Also spent some time reading the start of the enormous damn textbook I got on algorithms.
+
+
+**Thoughts:**
+- That textbook is huge. And it's got a lot of math. I'm a little scared, but I'm plunging ahead.
+- I'm so torn with all the things I want to learn, all the things I want to build.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/17%20-%20Sort%20Without%20Articles
