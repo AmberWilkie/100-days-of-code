@@ -275,3 +275,15 @@ https://github.com/amberwilkie/govents
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/17%20-%20Sort%20Without%20Articles
+
+## Day 18: Sunday, January 28, 2017
+#### Merge Sort, Intro to Algorithms
+
+**Today's Progress**:
+- Not much, honestly. I spent a long time thinkig about Merge Sort but couldn't get any of my code to actually work. I think Ruby may be recursively calling the methods in a different way than the textbook would suggest.
+
+
+**Thoughts:**
+- Ok, algorithms are hard.
+
+**Link to work:**
