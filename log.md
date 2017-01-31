@@ -286,4 +286,16 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/17%20-%20Sort%20Without%
 **Thoughts:**
 - Ok, algorithms are hard.
 
+
+## Day 19: Tuesday, January 29, 2017
+#### Merge Sort, Intro to Algorithms
+
+**Today's Progress**:
+- Ok I think I finally understand how this program is excecuting, but it took a long time.
+
+
+**Thoughts:**
+- I really still didn't understand this until I started writing it and wanted to illustrate with a dead-stupid example. Now it makes sense, though I'm not fully convinced I have it right.
+
 **Link to work:**
+https://medium.com/@heyamberwilkie/introduction-to-algorithms-chapter-two-merge-sort-edc7aba8d0d9#.wib0afyxc
