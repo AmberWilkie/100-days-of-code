@@ -299,3 +299,32 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/17%20-%20Sort%20Without%
 
 **Link to work:**
 https://medium.com/@heyamberwilkie/introduction-to-algorithms-chapter-two-merge-sort-edc7aba8d0d9#.wib0afyxc
+
+## Day 20: Thursday, February 2, 2017
+#### Long overdue changes to website
+
+**Today's Progress**:
+- I finally got the desert to show up on my website
+- I reduced the photo galleries down to Travel & everything else
+- I updated my About Me so people maybe stop thinking I'm available
+
+
+**Thoughts:**
+- I'll get back into it soon. Been coding a lot at work so I'm a little burnt out at night.
+
+**Link to work:**
+http://www.amberwilkie.com
+
+## Day 21: Saturday, February 4, 2017
+#### Back to algorithms
+
+**Today's Progress**:
+- Read but mostly glossed over Chapter 3
+- Worked through the first algorithm in Chapter 4
+
+**Thoughts:**
+- Much easier to work with recursive methods once you understand recursion. Also, I probably got lucky.
+- Also also, I am not that good at refactoring shit.
+
+**Link to work:**
+https://medium.com/@heyamberwilkie/intro-to-algorithms-chapter-four-the-maximum-sub-array-problem-7d02b178b55c#.jivfs65ed
