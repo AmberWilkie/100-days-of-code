@@ -328,3 +328,16 @@ http://www.amberwilkie.com
 
 **Link to work:**
 https://medium.com/@heyamberwilkie/intro-to-algorithms-chapter-four-the-maximum-sub-array-problem-7d02b178b55c#.jivfs65ed
+
+## Day 22: Sunday, February 5, 2017
+#### #Javascript30 and Twitter bots
+
+**Today's Progress**:
+- Mostly did #Javascript30 Day 18 on my own
+- Worked with the Twitter API but eventually gave up the project.
+
+**Thoughts:**
+- Both Facebook and Twitter do not have the searches I most desire (location-based).
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce
