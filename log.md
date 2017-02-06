@@ -341,3 +341,17 @@ https://medium.com/@heyamberwilkie/intro-to-algorithms-chapter-four-the-maximum-
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce
+
+
+## Day 23: Monday, February 6, 2017
+#### #Javascript30 video and image manipulation
+
+**Today's Progress**:
+- Long JS video today but I made it!
+
+**Thoughts:**
+- Really cool to see how the data in images is stored.
+- Tons of video and image manipulation stuff I'll never use.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/19%20-%20Webcam%20Fun
