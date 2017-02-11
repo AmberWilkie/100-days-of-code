@@ -355,3 +355,42 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/18%20-%20Adding%20Up%20T
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/19%20-%20Webcam%20Fun
+
+## Day 24: Tuesday, February 7, 2017
+#### #Javascript30 video and image manipulation
+
+**Today's Progress**:
+- Awesome speech-recognition Javascript video.
+
+**Thoughts:**
+- Oh man I never thought about using speech recognition (doesn't seem like a technology that would be accessible to someone with my skills), but whew, there's so much one could do!
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/20%20-%20Speech%20Detection
+
+## Day 25: Wednesday, February 8, 2017
+#### #Javascript30 day 21
+
+**Today's Progress**:
+- Didn't do much really - the JS video needed an emulator, so fuck it.
+
+## Day 26: Thursday, February 9, 2017
+#### #Javascript30 highlight tracking
+
+**Today's Progress**:
+- Pretty cool follow-the-highlight link span thing
+
+**Thoughts:**
+- Ok this Javascript business is kinda cool...
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/22%20-%20Follow%20Along%20Link%20Highlighter
+
+## Day 27: Friday, February 10, 2017
+#### CodeWars destroys me
+
+**Today's Progress**:
+- Haven't solved this algorithm efficiently enough. BUT I did learn a lot about Ruby methods and the gem `ruby-prof` which allows you to benchmark your code.
+
+**Thoughts:**
+- Worth doing, but also really irritating and I haven't solved it yet.
