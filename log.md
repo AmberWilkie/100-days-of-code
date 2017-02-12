@@ -394,3 +394,26 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/22%20-%20Follow%20Along%
 
 **Thoughts:**
 - Worth doing, but also really irritating and I haven't solved it yet.
+
+## Day 28: Saturday, February 11, 2017
+#### HackerRank and CodeWars
+
+**Today's Progress**:
+- Learned some more about algorithms and how much I suck at them.
+
+**Thoughts:**
+- Spent all damn day working on HackerRank stuff and feeling like.. well, like I don't have a computer science degree.
+
+## Day 29: Sunday, February 12, 2017
+#### Heapsort
+
+**Today's Progress**:
+- Understood heaps and heapsort!
+
+**Thoughts:**
+- It took me all damn day.
+- Those MIT lectures are pretty helpful.
+- The fact that Ruby starts indices at `0` and the pseudocode starts at 1 is really troublesome!
+
+**Link to work:**
+https://medium.com/@heyamberwilkie/intro-to-algorithms-chapter-six-heapsort-7963c2f0ec56#.iemd6wwgo
