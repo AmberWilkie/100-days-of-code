@@ -417,3 +417,16 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/22%20-%20Follow%20Along%
 
 **Link to work:**
 https://medium.com/@heyamberwilkie/intro-to-algorithms-chapter-six-heapsort-7963c2f0ec56#.iemd6wwgo
+
+## Day 30: Monday, February 13, 2017
+#### #Javascript30 Day 23 - Speech Synthesis
+
+**Today's Progress**:
+- #JS30 day 23, worked with some cool speech synthesis API browser stuff
+- Also finally got to 5kyu in CodeWars.
+
+**Thoughts:**
+- I don't know what I would ever use this for, but it's not so bad. Maybe in combo with the print-user-words on screen thing - if it can talk back to you, that's good.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/23%20-%20Speech%20Synthesis
