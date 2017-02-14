@@ -424,9 +424,22 @@ https://medium.com/@heyamberwilkie/intro-to-algorithms-chapter-six-heapsort-7963
 **Today's Progress**:
 - #JS30 day 23, worked with some cool speech synthesis API browser stuff
 - Also finally got to 5kyu in CodeWars.
+- Also also spent hours working on SpeechToDoc. It's coming along nicely!
 
 **Thoughts:**
 - I don't know what I would ever use this for, but it's not so bad. Maybe in combo with the print-user-words on screen thing - if it can talk back to you, that's good.
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/23%20-%20Speech%20Synthesis
+
+## Day 31: Tuesday, February 14, 2017
+#### #Javascript30 Day 24 - Sticky Nav
+
+**Today's Progress**:
+- #JS30 day 24 - not much new code, but very useful
+
+**Thoughts:**
+- Wow, yesterday I tweeted I was 1/3 of the way done with #100DaysOfCode. Whoops.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/24%20-%20Sticky%20Nav
