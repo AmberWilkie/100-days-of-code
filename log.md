@@ -443,3 +443,32 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/23%20-%20Speech%20Synthe
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/24%20-%20Sticky%20Nav
+
+## Day 32: Wednesday, February 15, 2017
+#### SpeechToDoc
+
+**Today's Progress**:
+- Added index page for documents: display them on cards with a fun highlighting JS
+- Added show page
+- Created Document model
+
+**Thoughts:**
+- I need to have bigger ideas. These things I can build in a few hours are not going to impress anyone.
+
+**Link to work:**
+https://github.com/AmberWilkie/speechtodoc/tree/voice_functions
+
+
+## Day 33: Saturday, February 15, 2017
+#### SpeechToDoc
+
+**Today's Progress**:
+- Created a new Snack app.
+- Installed Devise Users, gave them friendships, profiles.
+
+**Thoughts:**
+- I can feel how much better I understand these libraries - what they are doing and why. But also how wide the gap in knowledge is between myself and the people who built them.
+- I've got a lot of work to do on this app but I think it could actually be kind of good.
+
+**Link to work:**
+https://github.com/AmberWilkie/snack-app/
