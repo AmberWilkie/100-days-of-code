@@ -459,8 +459,8 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/24%20-%20Sticky%20Nav
 https://github.com/AmberWilkie/speechtodoc/tree/voice_functions
 
 
-## Day 33: Saturday, February 15, 2017
-#### SpeechToDoc
+## Day 33: Saturday, February 18, 2017
+#### Snack!
 
 **Today's Progress**:
 - Created a new Snack app.
@@ -472,3 +472,17 @@ https://github.com/AmberWilkie/speechtodoc/tree/voice_functions
 
 **Link to work:**
 https://github.com/AmberWilkie/snack-app/
+
+## Day 34: Sunday, February 19, 2017
+#### Snack
+
+**Today's Progress**:
+- Made a stupid-simple nav bar for temporary use. Tried to get Foundation to play nice but just gave up for now.
+- Users have languages, and languages they are learning.
+
+**Thoughts:**
+- I'm fighting with Rails on the language_list but I don't have a better way to do it yet.
+
+**Link to work:**
+https://github.com/AmberWilkie/snack-app/
+https://github.com/sungwoncho/has_friendship
