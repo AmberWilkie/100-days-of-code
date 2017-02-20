@@ -486,3 +486,15 @@ https://github.com/AmberWilkie/snack-app/
 **Link to work:**
 https://github.com/AmberWilkie/snack-app/
 https://github.com/sungwoncho/has_friendship
+
+## Day 35: Monday, February 20, 2017
+#### #Javascript30 - Stripe fun dropdown menus
+
+**Today's Progress**:
+- Got through the remaining longest JS30 video. It's smooth sailing from here.
+
+**Thoughts:**
+- This has been a great tutorial series. Kind of can't believe that people make these amazing things and then give them away for free.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/26%20-%20Stripe%20Follow%20Along%20Nav
