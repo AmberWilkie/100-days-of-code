@@ -498,3 +498,21 @@ https://github.com/sungwoncho/has_friendship
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/26%20-%20Stripe%20Follow%20Along%20Nav
+
+
+## Day 36: Wednesday, February 22, 2017
+#### #Javascript30 - drag and scroll && lots of improvements to Gbg Events
+
+**Today's Progress**:
+- JS30 day 27 - nearly done with the series.
+- Updated Facebook search (makes 3 api calls). Removed "today" functionality.
+- Updated Library search to find only non-recurring events.
+- Updated all three event listings to include dates, links.
+
+**Thoughts:**
+- Interesting concept for JS30 but the tutorial wasn't something I would build.
+- Hell yeah Ggb Events! Like 50% better now.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/27%20-%20Click%20and%20Drag
+http://apimachine.herokuapp.com/
