@@ -516,3 +516,18 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/26%20-%20Stripe%20Follow
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/27%20-%20Click%20and%20Drag
 http://apimachine.herokuapp.com/
+
+
+## Day 37: Thursday, February 23, 2017
+#### #Javascript30 - video speed controller
+
+**Today's Progress**:
+- JS28 (almost done!)
+- Fixed up date formatting, sort order for Gbg Events.
+- Remove Facebook events that have already occurred, gather more events that don't necessarily list "Gothenburg" as their location.
+
+**Thoughts:**
+- Not much going on with this JS30 video.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/28%20-%20Video%20Speed%20Controller
