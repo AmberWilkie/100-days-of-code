@@ -531,3 +531,15 @@ http://apimachine.herokuapp.com/
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/28%20-%20Video%20Speed%20Controller
+
+## Day 38: Saturday, February 25, 2017
+#### Gbg Events - caching
+
+**Today's Progress**:
+- Some research on caching, started caching Gbg Events data.
+
+**Thoughts:**
+- Next up: need to ping the servers every half hour using some kind of automated action thing.
+
+**Link to work:**
+http://apimachine.herokuapp.com/
