@@ -543,3 +543,27 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/28%20-%20Video%20Speed%2
 
 **Link to work:**
 http://apimachine.herokuapp.com/
+
+## Day 39: Sunday, February 26, 2017
+#### Snack - users have language matches
+
+**Today's Progress**:
+- Created simple algorithm for users to get matched by language; create `matches` page
+
+**Thoughts:**
+- This thing is shaping up ok.
+
+**Link to work:**
+http://apimachine.herokuapp.com/
+
+## Day 40: Monday, February 27, 2017
+#### #Javascript30 - day 29!
+
+**Today's Progress**:
+- JS30 #29 - Countdown clock
+
+**Thoughts:**
+- It seems like I've been doing these Javascript tutorials forever.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30/tree/master/29%20-%20Countdown%20Timer
