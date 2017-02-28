@@ -567,3 +567,15 @@ http://apimachine.herokuapp.com/
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30/tree/master/29%20-%20Countdown%20Timer
+
+## Day 41: Tuesday, February 28, 2017
+#### #Javascript30 - last day!
+
+**Today's Progress**:
+- Whack-a-mole, last tutorial on JS30
+
+**Thoughts:**
+- I knew right away when we'd need recursion, so that makes me feel awesome.
+
+**Link to work:**
+https://github.com/AmberWilkie/JavaScript30
