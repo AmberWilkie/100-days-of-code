@@ -579,3 +579,16 @@ https://github.com/AmberWilkie/JavaScript30/tree/master/29%20-%20Countdown%20Tim
 
 **Link to work:**
 https://github.com/AmberWilkie/JavaScript30
+
+## Day 42: Wednesday, March 1, 2017
+#### #Javascript30 - getting all my notes in order
+
+**Today's Progress**:
+- Spent ~2 hours compiling notes from JS30. No actual coding but lots of time thinking about Javascript.
+
+**Thoughts:**
+- I got more response to this article than any single other thing I've ever written in the tech world, maybe in any world.
+- I also had two interviews today and spent the rest of the time in a cafe. It was a weird day.
+
+**Link to work:**
+https://medium.com/craft-academy/everything-i-learned-from-javascript30-d8d2db246b7#.okgsvpicl
