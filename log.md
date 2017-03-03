@@ -592,3 +592,15 @@ https://github.com/AmberWilkie/JavaScript30
 
 **Link to work:**
 https://medium.com/craft-academy/everything-i-learned-from-javascript30-d8d2db246b7#.okgsvpicl
+
+## Day 43: Friday, March 3, 2017
+#### Snack - users can message each other
+
+**Today's Progress**:
+- Users can send messages to each other if they are friends.
+
+**Thoughts:**
+- I didn't use a library but there are some serious problems with the implementation. I want to dig in further and create library-like methods so I can do things like `user.send_message` and the like.
+
+**Link to work:**
+https://github.com/AmberWilkie/snack-app/pull/7
