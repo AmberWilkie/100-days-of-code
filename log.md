@@ -604,3 +604,17 @@ https://medium.com/craft-academy/everything-i-learned-from-javascript30-d8d2db24
 
 **Link to work:**
 https://github.com/AmberWilkie/snack-app/pull/7
+
+## Day 44: Saturday, March 4, 2017
+#### Snack - users can message each other
+
+**Today's Progress**:
+- Finished up messaging on Snack app:
+Users can message each other. They see an unread count in the nav bar.
+- Lots of refactoring
+
+**Thoughts:**
+- I learned a lot about custom validations, helpers and refactoring.
+
+**Link to work:**
+https://github.com/AmberWilkie/snack-app/pull/7
