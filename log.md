@@ -618,3 +618,16 @@ Users can message each other. They see an unread count in the nav bar.
 
 **Link to work:**
 https://github.com/AmberWilkie/snack-app/pull/7
+
+## Day 45: Sunday, March 5, 2017
+#### Snack - forum
+
+**Today's Progress**:
+- Used Thredded to install forum for users
+
+**Thoughts:**
+- This freakin' "gem" is crazy - so much beautiful functionality out of the box.
+- I will probably end up replacing the messaging thing I installed last time.
+
+**Link to work:**
+https://github.com/AmberWilkie/snack-app/pull/8
