@@ -631,3 +631,16 @@ https://github.com/AmberWilkie/snack-app/pull/7
 
 **Link to work:**
 https://github.com/AmberWilkie/snack-app/pull/8
+
+## Day 46: Monday, March 6, 2017
+#### Snack - forum
+
+**Today's Progress**:
+- Installed some sass in my project!
+- Added a few tests for forum functionality.
+
+**Thoughts:**
+- Not quite as simple as I thought, but also just fine.
+
+**Link to work:**
+https://github.com/AmberWilkie/snack-app/pull/8
