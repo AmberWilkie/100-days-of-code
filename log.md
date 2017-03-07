@@ -644,3 +644,15 @@ https://github.com/AmberWilkie/snack-app/pull/8
 
 **Link to work:**
 https://github.com/AmberWilkie/snack-app/pull/8
+
+## Day 47: Tuesday, March 7, 2017
+#### Snack - forum
+
+**Today's Progress**:
+- Cleaned up forum posts on user profiles
+
+**Thoughts:**
+- I lost faith in Thredded for just a minute, but what I needed was there, just under a different name (`postable`, instead of `topic`).
+
+**Link to work:**
+https://github.com/AmberWilkie/snack-app/pull/8
