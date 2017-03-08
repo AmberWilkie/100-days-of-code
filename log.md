@@ -656,3 +656,16 @@ https://github.com/AmberWilkie/snack-app/pull/8
 
 **Link to work:**
 https://github.com/AmberWilkie/snack-app/pull/8
+
+## Day 48: Wednesday, March 8, 2017
+#### Adventure Map - image picker
+
+**Today's Progress**:
+- Worked on AM for about an hour since I was gone this afternoon... interviewing for another job.
+- Added a bunch of code but our current system with emulator / no logs means I can't tell at all if this thing is working.
+
+**Thoughts:**
+- This is definitely not the way to develop.
+
+**Link to work:**
+https://github.com/CraftAcademyLabs/adventure-map-mobile/pull/36
