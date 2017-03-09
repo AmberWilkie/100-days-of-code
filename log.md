@@ -669,3 +669,15 @@ https://github.com/AmberWilkie/snack-app/pull/8
 
 **Link to work:**
 https://github.com/CraftAcademyLabs/adventure-map-mobile/pull/36
+
+## Day 49: Thursday, March 9, 2017
+#### Adventure Map - image picker
+
+**Today's Progress**:
+- Lots of time with TypeScript tutorials and blogging
+
+**Thoughts:**
+- I think I more or less am ok with TypeScript but some of it seems like a lot of unnecessary work. (Strongly typing things... why?)
+
+**Link to work:**
+https://medium.com/@heyamberwilkie/typescript-extreme-basics-58ef82d53eb8#.d4czcemyl
