@@ -671,7 +671,7 @@ https://github.com/AmberWilkie/snack-app/pull/8
 https://github.com/CraftAcademyLabs/adventure-map-mobile/pull/36
 
 ## Day 49: Thursday, March 9, 2017
-#### Adventure Map - image picker
+#### Typescript
 
 **Today's Progress**:
 - Lots of time with TypeScript tutorials and blogging
@@ -681,3 +681,17 @@ https://github.com/CraftAcademyLabs/adventure-map-mobile/pull/36
 
 **Link to work:**
 https://medium.com/@heyamberwilkie/typescript-extreme-basics-58ef82d53eb8#.d4czcemyl
+
+## Day 50: Saturday, March 11, 2017
+#### Pustervik, and the two universities to Gbg Events
+
+**Today's Progress**:
+- Added three new event sources to gbg events
+
+**Thoughts:**
+- I almost got to the (unsecured) Pustervik API but couldn't figure it out.
+- I wonder if these sites will be mad about me scraping... I'm such small beans I have to imagine no one will notice or care.
+- Fuck turbolinks
+
+**Link to work:**
+http://apimachine.herokuapp.com/
