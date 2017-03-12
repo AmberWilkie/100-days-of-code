@@ -695,3 +695,16 @@ https://medium.com/@heyamberwilkie/typescript-extreme-basics-58ef82d53eb8#.d4czc
 
 **Link to work:**
 http://apimachine.herokuapp.com/
+
+## Day 51: Sunday, March 12, 2017
+#### Added maps to Snack
+
+**Today's Progress**:
+- Added big map to front page of Snack
+
+**Thoughts:**
+- Almost didn't get zip codes working for geolocate, then I did.
+- `gon` is a really beautiful little piece of work.
+
+**Link to work:**
+https://github.com/AmberWilkie/snack-app/pull/9
