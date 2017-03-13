@@ -708,3 +708,15 @@ http://apimachine.herokuapp.com/
 
 **Link to work:**
 https://github.com/AmberWilkie/snack-app/pull/9
+
+## Day 52: Monday, March 13, 2017
+#### Codewars Javascript & ES6
+
+**Today's Progress**:
+- Did a whole bunch of Javascript katas and a few ES6 videos
+
+**Thoughts:**
+- I'm better at Javascript than I give myself credit for. OR, learning one language really does make the next one easier (I did a lot of Ruby katas already)
+
+**Link to work:**
+n/a today
