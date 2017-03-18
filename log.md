@@ -720,3 +720,16 @@ https://github.com/AmberWilkie/snack-app/pull/9
 
 **Link to work:**
 n/a today
+
+## Day 53: Saturday, March 18, 2017
+#### Google Calendar link on WebsiteOne
+
+**Today's Progress**:
+- Added drop-down menu to WebsiteOne event pages with Google Calendar link
+
+**Thoughts:**
+- My first "real" open source PR!
+- Man, I took some serious break this week.
+
+**Link to work:**
+https://github.com/AgileVentures/WebsiteOne/pull/1610
